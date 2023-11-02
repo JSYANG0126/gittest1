@@ -13,7 +13,7 @@
   <DIV style="margin: 50px;">
       <H1>깃 테스트</H1>
       <OL>
-          <LI>팀장 컴돌이</LI>
+          <LI>팀장: 컴돌이</LI>
           <LI>팀원1 : 김치찌개</LI>
           <LI>팀원2 :  </LI>
       </OL>
